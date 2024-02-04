@@ -1,0 +1,8 @@
+version: 2
+
+
+sources:
+  - name: test
+    schema: raw_test_data
+    tables:
+      - name: order_test
